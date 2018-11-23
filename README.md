@@ -1,0 +1,2 @@
+# Swancoin
+Limited success crypto
