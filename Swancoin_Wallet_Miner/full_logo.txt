@@ -1,0 +1,29 @@
+
+require 'win32console'
+
+puts ""
+puts "                          "
+
+puts "                     \e[42m Swancoin \e[0m"
+
+puts ""
+puts "                         _ "
+puts "                       =:-:.  "
+puts "                          /:        "
+puts "                         // _.._.-  "
+puts "                        : '`..-`/   "
+puts "                        `.____.'  "
+puts ""
+
+#sleep 1
+
+a = gets
+
+# This clears the screen
+puts "\e[H\e[2J"
+
+# 
+puts "hello"
+a = gets
+
+
